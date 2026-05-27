@@ -1,4 +1,4 @@
-# MMIF ComputerCraft
+# MMIF (multi_media image format)
 
 This format was created as a experement and replacement for the built-in NFP image format.
 ### files:
