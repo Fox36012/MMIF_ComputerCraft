@@ -7,6 +7,6 @@ Files:
 	mmif_processing(console) — a console application for the API (just for convenience)
 	mmif_viewer — can display image and video
 	mmif_convertor is a python script for converting other formats to MMIF —
-  (png, jpg, jpeg, tiff, webp, mp4, avi, mov, mkv, webm, flv, wmv convertation support EXCEPT AUDIO!!!)
+    (png, jpg, jpeg, tiff, webp, mp4, avi, mov, mkv, webm, flv, wmv convertation support EXCEPT AUDIO!!!)
 
 for using in ComputerCraft/tweaked: download https://github.com/sashafiesta/CC-Graphics
